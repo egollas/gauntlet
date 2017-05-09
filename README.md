@@ -1,6 +1,6 @@
 # README 
 
-## GAUNLET
+## GAUNTLET
 
 ### Description
 
@@ -8,7 +8,7 @@ This game was created as part of a course project. It is set in middle-earth and
 
 ### Installation 
 
- No installation required. Just download the **gaunlet.rb** file.
+ No installation required. Just download the **gauntlet.rb** file.
 
 ### Usage
 
@@ -16,7 +16,7 @@ After you've downloaded the file. Run it from your command line using:
 
 ```bash
 
-ruby gaunlet.rb
+ruby gauntlet.rb
 
 ```
 
