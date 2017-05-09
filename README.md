@@ -4,7 +4,7 @@
 
 ### Description
 
-This game was created as part of a course project. It is set in middle-earth and is going to have you sweating about the ending. 
+This game was created as part of a course project. It is set in middle-earth and is going to have you sweating 'till the end!
 
 ### Installation 
 
