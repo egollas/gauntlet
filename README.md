@@ -1,4 +1,4 @@
-# README 
+# README
 
 ## GAUNTLET
 
@@ -6,7 +6,7 @@
 
 This game was created as part of a course project. It is set in middle-earth and is going to have you sweating 'till the end!
 
-### Installation 
+### Installation
 
  No installation required. Just download the **gauntlet.rb** file.
 
@@ -21,3 +21,5 @@ ruby gauntlet.rb
 ```
 
 ## Have fun!
+
+## Enrique G Was here
